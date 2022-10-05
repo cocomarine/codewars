@@ -4,4 +4,4 @@ My profile in codewars can be found [here](https://www.codewars.com/users/Ditty)
 
 This is my Codewarrior Profile Badge, current status: 
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/Ditty/badges/large)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/HJ%20Kang/badges/large)
